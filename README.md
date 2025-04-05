@@ -56,5 +56,5 @@ pip install requests beautifulsoup4
 ---
 
 ## 🎓 Submitted by:
-**Your Name**  
+**Hema Latha Baji**
 **Intern at Cognifyz Technologies**
